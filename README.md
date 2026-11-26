@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./a_wide_sleek_dark_tech_style_banner_hero_image_fo.png" alt="Md Shamim Mia - JavaScript Developer" width="100%" />
+  <img src="https://raw.githubusercontent.com/rakibkhanshamim1/rakibkhanshamim1/main/banner.png" alt="Md Shamim Mia - JavaScript Developer" width="100%" />
 </div>
 
 <br />
