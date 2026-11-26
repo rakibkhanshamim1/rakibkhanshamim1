@@ -1,4 +1,8 @@
+<div align="center">
+  <img src="./a_wide_sleek_dark_tech_style_banner_hero_image_fo.png" alt="Md Shamim Mia - JavaScript Developer" width="100%" />
+</div>
 
+<br />
 ## About Me
 
 I am a JavaScript Developer passionate about building modern, responsive, and scalable web applications. I work with JavaScript, TypeScript, React.js, Next.js, Tailwind CSS, HTML, Node.js, MongoDB, and Prisma. I enjoy creating user-friendly interfaces, developing efficient backend solutions, and writing clean, maintainable code. I am continuously learning new technologies, improving my problem-solving skills, and exploring better approaches to web development. I am also interested in collaborating on open-source projects and building innovative applications that solve real-world problems.
